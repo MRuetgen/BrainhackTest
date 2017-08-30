@@ -1,1 +1,5 @@
 disp('hello world')
+for x = 1:10
+rand(x)
+print(x)
+end;
